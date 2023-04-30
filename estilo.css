@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(255, 194, 203);
+    }
+   p, li {
+     font-style: initial;
+     color: darkred;
+   }
+
+   h1, h2, h3, label {
+    color: maroon;
+    font-family: 'Times New Roman', Times, serif;
+   }
+   hr{
+    border-color: darkred;
+    border-width: 1px;
+    width: 100%;
+   }
+
+     select, textarea{
+     border-style: outsetet;
+     border-width: 3px;
+     border-radius: 10px ;
+     border-bottom: none thick;
+     background-color: #ededed
+   }
+     
+
